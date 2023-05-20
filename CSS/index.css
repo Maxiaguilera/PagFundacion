@@ -41,6 +41,11 @@ header {
     margin: 0 px;
 }
 
+.bi-chevron-down {
+    font-size: 0.9rem;
+    stroke-width: 100em;
+}
+
 nav {
     font-family: 'Raleway', sans-serif;
     font-weight: 650;
